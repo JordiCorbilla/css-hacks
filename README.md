@@ -13,3 +13,13 @@ A curated list of CSS hacks by Jordi Corbilla
 | forth |
 | fifth |
 | sixth |
+
+**li:last-child** -> last of the list
+| List Sample |
+|---|
+| first |
+| second |
+| third |
+| forth |
+| fifth |
+| **sixth** |
