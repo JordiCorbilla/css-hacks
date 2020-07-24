@@ -11,35 +11,47 @@ A curated list of CSS hacks by Jordi Corbilla
       <th align="center">last-child<br>li:last-child</th>
       <th align="center">second-child<br>li:nth-child(2)</th>
       <th align="center">sixth-child<br>li:nth-child(6)</th>
+      <th align="center">last three<br>li:nth-child(n+2)</th>
+      <th align="center">first three<br>li:nth-child(-n+3)</th>      
     </tr>
     <tr>
       <td align="center"><b>*first</b></td>
       <td align="center">first</td>
       <td align="center">first</td>
       <td align="center">first</td>
+      <td align="center">first</td>
+      <td align="center"><b>*first</b></td>
     </tr>
     <tr>
       <td align="center">second</td>
       <td align="center">second</td>
       <td align="center"><b>*second</b></td>
       <td align="center">second</td>
+      <td align="center">second</td>
+      <td align="center"><b>*second</b></td>
     </tr>
     <tr>
       <td align="center">third</td>
       <td align="center">third</td>
       <td align="center">third</td>
       <td align="center">third</td>
+      <td align="center">third</td>
+      <td align="center"><b>*third</b></td>
     </tr>
     <tr>
       <td align="center">fourth</td>
       <td align="center">fourth</td>
       <td align="center">fourth</td>
       <td align="center">fourth</td>
+      <td align="center"><b>*fourth</b></td>
+      <td align="center">fourth</td>
     </tr>
     <tr>
       <td align="center">fifth</td>
       <td align="center">fifth</td>
       <td align="center">fifth</td>
+      <td align="center">fifth</td>
+      <td align="center"><b>*fifth</b></td>
       <td align="center">fifth</td>
     </tr>
     <tr>
@@ -47,6 +59,8 @@ A curated list of CSS hacks by Jordi Corbilla
       <td align="center"><b>*sixth</b></td>
       <td align="center">sixth</td>
       <td align="center"><b>*sixth</b></td>
+      <td align="center"><b>*sixth</b></td>
+      <td align="center">sixth</td>
     </tr>    
   </tbody>
 </table>
