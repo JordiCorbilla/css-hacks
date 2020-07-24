@@ -7,13 +7,13 @@ A curated list of CSS hacks by Jordi Corbilla
 <table>
   <tbody>
     <tr>
-      <th align="center">first-child</th>
-      <th align="center">last-child</th>
-      <th align="center">second-child</th>
-      <th align="center">fifth-child</th>
+      <th align="center">first-child<br>li:first-child</th>
+      <th align="center">last-child<br>li:last-child</th>
+      <th align="center">second-child<br>li:nth-child(2)</th>
+      <th align="center">sixth-child<br>li:nth-child(6)</th>
     </tr>
     <tr>
-      <td align="center" style="background: greenyellow;">first</td>
+      <td align="center"><b>first</b></td>
       <td align="center">first</td>
       <td align="center">first</td>
       <td align="center">first</td>
@@ -21,7 +21,7 @@ A curated list of CSS hacks by Jordi Corbilla
     <tr>
       <td align="center">second</td>
       <td align="center">second</td>
-      <td align="center">second</td>
+      <td align="center"><b>second</b></td>
       <td align="center">second</td>
     </tr>
     <tr>
@@ -44,9 +44,9 @@ A curated list of CSS hacks by Jordi Corbilla
     </tr>
     <tr>
       <td align="center">sixth</td>
-      <td align="center" style="background: greenyellow;">sixth</td>
+      <td align="center"><b>sixth</b></td>
       <td align="center">sixth</td>
-      <td align="center">sixth</td>
+      <td align="center"><b>sixth</b></td>
     </tr>    
   </tbody>
 </table>
