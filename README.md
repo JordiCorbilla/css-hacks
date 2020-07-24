@@ -64,3 +64,78 @@ A curated list of CSS hacks by Jordi Corbilla
     </tr>    
   </tbody>
 </table>
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">odd selection<br>li:nth-child(odd)</th>
+      <th align="center">even selection<br>li:nth-child(even)</th>
+      <th align="center">second-child<br>li:nth-child(2)</th>
+      <th align="center">sixth-child<br>li:nth-child(6)</th>
+      <th align="center">last three<br>li:nth-child(n+2)</th>
+      <th align="center">first three<br>li:nth-child(-n+3)</th>      
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+          <li>item4</li>
+          <li>item5</li>
+          <li>item6</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+          <li>item4</li>
+          <li>item5</li>
+          <li>item6</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+          <li>item4</li>
+          <li>item5</li>
+          <li>item6</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+          <li>item4</li>
+          <li>item5</li>
+          <li>item6</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+          <li>item4</li>
+          <li>item5</li>
+          <li>item6</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+          <li>item4</li>
+          <li>item5</li>
+          <li>item6</li>
+        </ul>
+      </td>      
+    </tr>
+  </tbody>
+</table>
