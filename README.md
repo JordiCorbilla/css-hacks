@@ -2,7 +2,11 @@
 
 A curated list of CSS hacks by Jordi Corbilla
 
-## 1) Child Selectors
+## 1) HTML Picker
+
+https://www.w3schools.com/colors/colors_picker.asp
+
+## 2) Child Selectors
 
 <table>
   <tbody>
